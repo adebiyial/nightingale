@@ -31,8 +31,6 @@ Nightingale is a Visual Studio Code theme for nocturnal folks looking to code aw
 
 # Footnote
 
-## Misc
-
 This is my first time building a VSCode theme so if you notice any issue, please let me know:
 - [Twitter DM] (https://twitter.com/adebiyial)
 - [GitHub issue](https://github.com/sdras/night-owl-vscode-theme)
