@@ -1,0 +1,21 @@
+{
+    "name": "nightingale",
+    "displayName": "Nightingale",
+    "description": "Get some rest, tonight we change the world",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightingale",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightingale-color-theme.json"
+            }
+        ]
+    }
+}
