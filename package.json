@@ -3,12 +3,30 @@
     "displayName": "Nightingale",
     "description": "Get some rest, tonight we change the world",
     "version": "0.0.1",
+    "publisher": "adebiyial",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sdras/night-owl-vscode-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Night",
+        "Night Theme",
+        "Nightingale",
+        "Accessible Theme"
+    ],
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.49.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
