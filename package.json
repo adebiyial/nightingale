@@ -1,8 +1,8 @@
 {
     "name": "nightingale",
     "displayName": "Nightingale",
-    "description": "Get some rest, tonight we change the world",
-    "version": "0.0.1",
+    "description": "For nocturnal folks looking to code away into the scenery of the beautiful night",
+    "version": "0.0.2",
     "publisher": "adebiyi-adedotun",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
