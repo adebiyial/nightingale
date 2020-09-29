@@ -2,6 +2,8 @@
 
 Nightingale is a Visual Studio Code theme for nocturnal folks looking to code away into the scenery of the beautiful night. Enjoy!
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/adebiyi-adedotun.nightingale.svg)](https://marketplace.visualstudio.com/items?itemName=adebiyi-adedotun.nightingale)
+
 ## HTML
 ![HTML](html.png)
 
