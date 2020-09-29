@@ -4,6 +4,8 @@ Nightingale is a Visual Studio Code theme for nocturnal folks looking to code aw
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/adebiyi-adedotun.nightingale.svg)](https://marketplace.visualstudio.com/items?itemName=adebiyi-adedotun.nightingale)
 
+[![Downloads](https://img.shields.io/vscode-marketplace/r/adebiyi-adedotun.nightingale.svg)](https://aka.ms/nightingale)
+
 ## HTML
 ![HTML](html.png)
 
@@ -27,11 +29,9 @@ Nightingale is a Visual Studio Code theme for nocturnal folks looking to code aw
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Nightingale**
 
-# Uses
-
-1. The font in the preview image is Dank Mono, [download it ＄ here](https://dank.sh/).
-
 # Footnote
+
+ The font in the preview image is Dank Mono, [download it ＄ here](https://dank.sh/).
 
 This is my first time building a VSCode theme so if you notice any issue, please let me know:
 - [Twitter DM] (https://twitter.com/adebiyial)
