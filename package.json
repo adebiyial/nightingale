@@ -21,9 +21,6 @@
         "publish": "vsce publish",
         "package": "vsce package"
     },
-    "engines": {
-        "vscode": "^1.49.0"
-    },
     "categories": [
         "Themes"
     ],
