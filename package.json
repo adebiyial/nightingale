@@ -17,6 +17,9 @@
         "Nightingale",
         "Accessible Theme"
     ],
+    "engines": {
+        "vscode": "^1.17.0"
+    },
     "scripts": {
         "publish": "vsce publish",
         "package": "vsce package"
