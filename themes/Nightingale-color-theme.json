@@ -287,7 +287,31 @@
 		"welcomePage.background": "#0a0f0b",
 		"welcomePage.buttonBackground": "#0d140f",
 		"welcomePage.buttonHoverBackground": "#1f3726",
-		"walkThrough.embeddedEditorBackground": "#0d140f"
+		"walkThrough.embeddedEditorBackground": "#0d140f",
+		"settings.headerForeground": "#ffc680",
+		"settings.modifiedItemIndicator": "#a5ffbe",
+		"settings.checkboxBackground": "#0d140f",
+		"settings.checkboxBorder": "#1f3726",
+		"settings.checkboxForeground": "#a5ffbe",
+		"settings.dropdownBackground": "#0d140f",
+		"settings.dropdownBorder": "#1f3726",
+		"settings.dropdownForeground": "#a5ffbe",
+		"settings.dropdownListBorder": "#1f3726",
+		"settings.numberInputBackground": "#0d140f",
+		"settings.numberInputBorder": "#1f3726",
+		"settings.textInputBackground": "#0d140f",
+		"settings.numberInputForeground": "#a5ffbe",
+		"settings.textInputBorder": "#1f3726",
+		"settings.textInputForeground": "#a5ffbe",
+		"gitDecoration.addedResourceForeground": "#a49fff",
+		"gitDecoration.modifiedResourceForeground": "#ffc680",
+		"gitDecoration.deletedResourceForeground": "#ff0000",
+		"gitDecoration.untrackedResourceForeground": "#a49fff",
+		"gitDecoration.ignoredResourceForeground": "#a5ffbe4b",
+		"gitDecoration.conflictingResourceForeground": "#ff0000",
+		"gitDecoration.submoduleResourceForeground": "#ffc680",
+		"scm.providerBorder": "#1f3726"
+	
 	},
 	"tokenColors": [
 		{
