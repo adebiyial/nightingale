@@ -310,8 +310,7 @@
 		"gitDecoration.ignoredResourceForeground": "#a5ffbe4b",
 		"gitDecoration.conflictingResourceForeground": "#ff0000",
 		"gitDecoration.submoduleResourceForeground": "#ffc680",
-		"scm.providerBorder": "#1f3726"
-	
+		"scm.providerBorder": "#1f3726",
 	},
 	"tokenColors": [
 		{
