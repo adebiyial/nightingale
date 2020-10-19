@@ -117,7 +117,7 @@
 		// "tab.unfocusedInactiveModifiedBorder": "#ff0000",
 		"editorPane.background": "#0d140f",
 		"editor.background": "#0a0f0b",
-		"editor.foreground": "#ffc680",
+		"editor.foreground": "#d6deeb",
 		"editorLineNumber.foreground": "#ffc680",
 		"editorLineNumber.activeForeground": "#ff0000", // !
 		"editorCursor.background": "#ffff00", // !
@@ -527,7 +527,8 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#ffc680"
+				// attribute value
+				"foreground": "#5b8f65"
 			}
 		},
 		{
