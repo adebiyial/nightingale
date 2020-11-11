@@ -1,40 +1,31 @@
 {
-    "name": "nightingale",
-    "displayName": "Nightingale",
-    "description": "For nocturnal folks looking to code away into the scenery of the beautiful night",
-    "version": "0.0.3",
-    "publisher": "adebiyi-adedotun",
-    "license": "SEE LICENSE IN LICENSE.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/adebiyial/nightingale"
-    },
-    "keywords": [
-        "Theme",
-        "Dark Theme",
-        "Night",
-        "Night Theme",
-        "Nightingale",
-        "Accessible Theme"
-    ],
-    "engines": {
-        "vscode": "^1.17.0"
-    },
-    "scripts": {
-        "publish": "vsce publish",
-        "package": "vsce package"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Nightingale",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Nightingale-color-theme.json"
-            }
-        ]
-    }
+	"name": "nightingale",
+	"displayName": "Nightingale",
+	"description": "For nocturnal folks looking to code away into the scenery of the beautiful night",
+	"version": "0.0.4",
+	"publisher": "adebiyi-adedotun",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adebiyial/nightingale"
+	},
+	"keywords": [ "Theme", "Dark Theme", "Night", "Night Theme", "Nightingale", "Accessible Theme" ],
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"scripts": {
+		"publish": "vsce publish",
+		"package": "vsce package"
+	},
+	"categories": [ "Themes" ],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nightingale",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nightingale-color-theme.json"
+			}
+		]
+	}
 }
